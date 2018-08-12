@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{EE6B3335-3405-4E55-A95A-51342F6E3C5E}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="itruck/ChooseTruck.cs" Line="42" Column="10" />
+      <File FileName="itruck/MainActivity.cs" Line="40" Column="43" />
+      <File FileName="itruck/History.cs" Line="24" Column="55" />
+      <File FileName="itruck/Payment.cs" Line="25" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.itruck AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>

@@ -1,0 +1,14 @@
+Copyright (C) 2018 Deakin Student
+All Rights Reserved
+Web:http://www.deakin.edu.au
+E-mail: cuichen@deakin.edu.au
+Developers:CHENMING CUI
+Student ID:217363136
+ 
+*** LICENSE AGREEMENT ***
+ 
+Please carefully read the following terms and conditions before using "iTruck". The license agreement is the contract between you and "Deakin Student Developers Team". By using the "iTruck" you are agreeing to all the limitations and rules provided by "Deakin Student Developers Team". In case you are do not agree with the following license agreement, you should not use or download or store "iTruck".
+ 
+*** BASIC LICENSE AGREEMENT ***
+ 
+1. iTruck is a result of the intellectual property of "Deakin Student Developers Team" and is protected by intellectual property laws. You will be able to use "iTruck" only within the scope of the current license agreement. In case you do not agree to the terms set forth, please do not use or download or store "iTruck".
